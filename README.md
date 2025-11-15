@@ -51,16 +51,32 @@ A demo video is available upon request. Please contact the repository owner for 
 4. **Open in browser**
    The application will open automatically in your default browser at [http://localhost:5173](http://localhost:5173)
 
-## Project Structure
+## 📁 Project Structure
 
 ```
-src/
-  ├── components/
-  │   └── TopicSearch.jsx  # Main component with search and topic listing
-  ├── App.jsx             # Root component
-  ├── App.css             # Global styles
-  └── main.jsx            # Application entry point
+topic-search-app/
+├── public/                # Static files
+│   └── vite.svg           # Vite logo
+├── src/
+│   ├── components/        # React components
+│   │   └── TopicSearch.jsx  # Main search and display component
+│   ├── App.jsx            # Root component
+│   ├── App.css            # Global styles
+│   └── main.jsx           # Application entry point
+├── .gitignore            # Git ignore file
+├── index.html            # Main HTML file
+├── package.json          # Project dependencies
+├── package-lock.json     # Dependency lock file
+└── vite.config.js        # Vite configuration
 ```
+
+## 🔗 Repository
+
+This project is hosted on GitHub:  
+[📂 View Repository](https://github.com/Ashokkalluri26/totalinternship)
+
+### 🎥 Demo Video
+[Click here to watch the demo video](https://github.com/Ashokkalluri26/totalinternship/demo-video) (coming soon)
 
 ## How It Works
 
@@ -85,7 +101,7 @@ To add or modify topics, edit the `topics` array in `src/components/TopicSearch.
 ```javascript
 const topics = [
   { id: 1, name: 'Thermodynamics', category: 'Physics' },
-  // Add more topics here
+ 
 ];
 ```
 
