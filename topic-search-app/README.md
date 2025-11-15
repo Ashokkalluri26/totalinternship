@@ -12,7 +12,7 @@ A React-based application that allows users to search and filter through a list 
 
 ## Demo
 
-[Watch the demo video here](C:\Users\ashok\OneDrive\Desktop\projects\totalinternship\topic-search-app\demo%20video\Recording%202025-11-15%20221600.mp4)
+A demo video is available upon request. Please contact the repository owner for access to the demonstration.
 
 ## Getting Started
 
