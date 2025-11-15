@@ -76,7 +76,7 @@ This project is hosted on GitHub:
 [📂 View Repository](https://github.com/Ashokkalluri26/totalinternship)
 
 ### 🎥 Demo Video
-[Click here to watch the demo video](https://github.com/Ashokkalluri26/totalinternship/demo-video) (coming soon)
+[Click here to watch the demo video](https://github.com/Ashokkalluri26/totalinternship/tree/main/topic-search-app/demo%20video) 
 
 ## How It Works
 
