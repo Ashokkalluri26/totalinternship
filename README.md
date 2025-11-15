@@ -122,7 +122,7 @@ This project includes the following files for submission:
 ### Repository Link
 
 All project files and the demo video are available in the GitHub repository:
-[GitHub Repository](https://github.com/ashokkalluri26/topic-search-app)
+[GitHub Repository](https://github.com/Ashokkalluri26/totalinternship)
 
 ## Deployment
 
