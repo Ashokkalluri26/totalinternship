@@ -30,7 +30,7 @@ A demo video is available upon request. Please contact the repository owner for 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/topic-search-app.git
+   git clone https://github.com/Ashokkalluri26/totalinternship.git
    cd topic-search-app
    ```
 
