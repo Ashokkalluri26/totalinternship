@@ -1,0 +1,25 @@
+# Ignore large media files
+*.mp4
+*.mov
+*.avi
+*.wmv
+
+# Ignore node_modules
+node_modules/
+
+# Ignore environment variables
+.env
+.env.local
+
+# Ignore build files
+dist/
+build/
+
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
