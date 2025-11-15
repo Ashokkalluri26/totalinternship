@@ -1,0 +1,39 @@
+{
+  "name": "topic-search-app",
+  "version": "1.0.0",
+  "description": "A React application for searching and displaying topics.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "search",
+    "topics"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
+  },
+  "homepage": "https://github.com/yourusername/topic-search-app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/topic-search-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/topic-search-app/issues"
+  },
+  "homepage": "https://yourusername.github.io/topic-search-app"
+}
